@@ -1,4 +1,4 @@
-# Final-Paralel
+# Final-Paralelo
 
 Este es el proyecto final de computo paralelo y en la nube de Sebastian Yamil Castellanos Gómez 198090 y Galilea Resendis González 196811. El proyecto se basa en hacer una bolsa de palabras con MPI para el análisis de texto de manera serial y paralelizada, como parte de las especificaciones se debe de alcanzar un speedup mínimo de 1.2 con la versión paralelizada.
 
